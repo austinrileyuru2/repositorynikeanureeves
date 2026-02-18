@@ -1,0 +1,18 @@
+/* NAVBAR */
+.navbar-nav .nav-link{
+    color:rgb(136, 136, 255);
+    transition:0.3;
+    font: size 1.1rem;
+}
+
+.navbar-nav .nav-link:hover{
+    color:#3c86f5;
+    text-decoration: underline;
+}
+
+section [class^="container"]{
+    padding:4rem 2rem;
+}
+
+#hero-section { background: lightgray; padding: 72px;}
+.container {border: 2px solid blue}
